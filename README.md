@@ -135,8 +135,8 @@ module.exports = env => {
 
 ## API
 
-See the API Documentation [here][API Docs]. In addition to custom utilities from this package, it comes bundled with
-a few another helpful utility: [`webpack-combine-loaders`](https://www.npmjs.com/package/webpack-combine-loaders) (exposed as `combineLoaders`).
+API Documentation to come. In addition to custom utilities from this package, it comes bundled with
+ another helpful utility: [`webpack-combine-loaders`](https://www.npmjs.com/package/webpack-combine-loaders) (exposed as `combineLoaders`).
 
 ## Articles
 
@@ -205,4 +205,3 @@ MIT
 [all-contributors]: https://github.com/kentcdodds/all-contributors
 [cross-env]: https://www.npmjs.com/package/cross-env
 [nps]: https://www.npmjs.com/package/nps
-[API Docs]: https://doclets.io/kentcdodds/webpack-config-utils/master
